@@ -1,0 +1,16 @@
+to-do list:
+
+requirements:
+- add items
+- delete items
+- complete items
+- stretch goal: edit items
+- stretch goal: archive items
+
+components:
+- item (display the item)
+- user input
+
+the rest:
+- state to track the items
+- controlled component for the input
